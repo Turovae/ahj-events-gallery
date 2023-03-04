@@ -1,3 +1,8 @@
+[![IMG Gallery](https://github.com/Turovae/ahj-events-gallery/actions/workflows/web.yml/badge.svg)](https://github.com/Turovae/ahj-events-gallery/actions/workflows/web.yml)
+[![Build status](https://ci.appveyor.com/api/projects/status/k48kplpd7wpfh6u9?svg=true)](https://ci.appveyor.com/project/Turovae/ahj-events-gallery)
+
+---
+
 # Домашнее задание к занятию "3.Обработка событий"
 
 Правила сдачи задания:
